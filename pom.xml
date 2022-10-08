@@ -11,9 +11,9 @@
 	</parent>
 
 	<groupId>com.aemendes</groupId>
-	<artifactId>databases</artifactId>
+	<artifactId>crud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>databases</name>
+	<name>crud</name>
 	<description>Learning About Databases</description>
 
 	<properties>
